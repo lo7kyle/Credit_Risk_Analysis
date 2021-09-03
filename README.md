@@ -11,7 +11,7 @@ The purpose of this challenge is to introduce supervised machine learning and th
 * Data Source: (LoanStats_2019Q1.csv)
 * Software: 
 \ Jupyter Notebook 6.3
-\ Spark Version: http://www.apache.org/dist/spark/$SPARK_VERSION/$SPARK_VERSION-bin-hadoop2.7.tgz
+\ Python 3.7
 
 
 ## Analysis:
